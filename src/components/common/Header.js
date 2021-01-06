@@ -22,7 +22,7 @@ function Header({ auth, toggleDrawer }) {
 							</Hidden>
 						</Grid>
 						<Grid item container alignItems="center" xs={8}>
-							<Typography variant="h5">Cleveroad</Typography>
+							<Typography variant="h5">$|-|0p</Typography>
 						</Grid>
 						<Grid container item xs={2} alignContent="center">
 							{auth.currentUser ? (
